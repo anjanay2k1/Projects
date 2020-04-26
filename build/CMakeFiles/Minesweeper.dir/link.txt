@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/Minesweeper.dir/src/main.cpp.o CMakeFiles/Minesweeper.dir/src/game.cpp.o CMakeFiles/Minesweeper.dir/src/controller.cpp.o CMakeFiles/Minesweeper.dir/src/renderer.cpp.o  -o Minesweeper  -lSDL2 

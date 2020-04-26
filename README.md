@@ -28,3 +28,7 @@
 3 Scoring is minimum number of seconds to unreveal the mines
 4 For mines unreveal you need to use right click(left click will end the game)
 5 For normal block left click + right click is used to unreveal
+
+##image
+1 Images are downloaed from net
+

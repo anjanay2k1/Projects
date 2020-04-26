@@ -29,6 +29,7 @@
 4 For mines unreveal you need to use right click(left click will end the game)
 5 For normal block left click + right click is used to unreveal
 
-##image
-1 Images are downloaed from net
+## Images
+1 Image used are created images.
+2 Images can be replaced for better look and feel,need to follow path naming.
 
